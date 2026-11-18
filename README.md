@@ -1,6 +1,6 @@
 # Desk Pal privacy policy
 
-Last updated: 12 November 2026
+Last updated: 18 November 2026
 
 Desk Pal is a desk wellbeing companion for Windows, made by MindtheApp. It reminds you to stretch, drink water, rest your eyes and take short walks. This page explains, in plain words, what the app does with your information. The short version: it has no accounts, no advertising, and does not collect usage data, analytics or telemetry. The only information that can leave your PC for us is a crash report, and only if you allow it.
 
@@ -14,7 +14,7 @@ You choose what happens in Settings, under "Send crash reports":
 - **Always**: reports are sent as they happen.
 - **Never**: crash reporting is switched off completely and any report still waiting on your PC is deleted.
 
-Reports are processed for us by Sentry (Functional Software, Inc.) and stored in its EU data region (Germany). They are kept for the retention period of our Sentry plan and then deleted automatically. Reports are not linked to your identity, are not used for advertising or tracking, and are not sold or shared with anyone else. To ask about or delete a report, contact us.
+Reports are processed for us by Sentry (Functional Software, Inc.) and stored in its EU data region (Germany). No IP address is stored with crash reports: the app removes it before sending, and our Sentry account is also set to never store IP addresses. They are kept for the retention period of our Sentry plan and then deleted automatically. Reports are not linked to your identity, are not used for advertising or tracking, and are not sold or shared with anyone else. To ask about or delete a report, contact us.
 
 ## What stays on your PC
 
